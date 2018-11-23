@@ -1,0 +1,23 @@
+{
+  "name": "P_23112018_The_Beach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrosdaniel/P_23112018_The_Beach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrosdaniel/P_23112018_The_Beach/issues"
+  },
+  "homepage": "https://barrosdaniel.github.io/P_23112018_The_Beach",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
